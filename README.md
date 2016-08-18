@@ -1,2 +1,2 @@
-# stutzthings-influx
-Influx component of StutzThings Platform
+# stutzthings-influxdb
+InfluxDB component of StutzThings Platform
