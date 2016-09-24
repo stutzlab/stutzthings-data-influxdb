@@ -1,4 +1,4 @@
-data-influxdb:
+data_influxdb:
   build: .
   ports:
    - "8083:8083"
