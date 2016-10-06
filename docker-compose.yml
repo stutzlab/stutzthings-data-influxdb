@@ -5,3 +5,4 @@ data_influxdb:
    - "8086:8086"
   volumes:
    - /volumes/stutzthings-influx:/data
+  restart: always
