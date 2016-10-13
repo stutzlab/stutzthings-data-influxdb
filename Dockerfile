@@ -1,1 +1,2 @@
-FROM tutum/influxdb:0.13 
+FROM influxdb:1.0.2-alpine 
+
